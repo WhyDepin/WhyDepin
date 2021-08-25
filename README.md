@@ -1,5 +1,5 @@
 
-## Hi there, Depin Kun 👋
+## Hi there, i'm Depin Kun 👋
 
 <a href="https://github.com/DEPINxMEQ"><img src="https://cardivo.vercel.app/api?name=Depin Kun&description=Hi, i'm Depin Kun and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/09d23565eb7e9979c8a62.jpg&usqp=CAU&backgroundColor=%23ecf0f1&Youtube=DEGES BOTZ&github=DEPINxMEQ&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
 [<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/628871746203)
