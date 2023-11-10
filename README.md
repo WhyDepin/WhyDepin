@@ -21,9 +21,5 @@
   <a href="https://github.com/WhyDepin"><img src="https://github-readme-streak-stats.herokuapp.com?user=WhyDepin&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
   </p>
 <p align="center">
-  <a href="[[https://github.com/WhyDepin](https://github.com/WhyDepin)](https://github.com/WhyDepin)"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DEPINxMEQ&theme=tokyonight&layout=compact" /></a>
+  <a href="[[https://github.com/WhyDepin](https://github.com/WhyDepin)](https://github.com/WhyDepin)"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=WhyDepin&theme=tokyonight&layout=compact" /></a>
   </p>
-<p align="center">
-  <a href="https://github.com/DEPINxMEQ"><img src="https://github-profile-trophy.vercel.app/?username=DEPINxMEQ&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-  </p>
-  
