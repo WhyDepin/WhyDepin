@@ -9,7 +9,7 @@
 - Frameworks: &nbsp;
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - HTML: &nbsp;
-  ![NodeJS](https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=html5&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=html5&logoColor=F7DF1E)
 
 ### ⚙ &nbsp;Account Analytics
 
