@@ -10,15 +10,12 @@
 - Frameworks: &nbsp;
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### ⚙ &nbsp;GitHub Analytics
+### ⚙ &nbsp;Account Analytics
 
 ---
 
 <p align="center">
   <a href="https://github.com/DEPINxMEQ"><img src="https://github-readme-stats.vercel.app/api?username=WhyDepin&theme=tokyonight&show_icons=true" /></a>
-  </p>
-<p align="center">
-  <a href="https://github.com/WhyDepin"><img src="https://github-readme-streak-stats.herokuapp.com?user=WhyDepin&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
   </p>
 <p align="center">
   <a href="[[https://github.com/WhyDepin](https://github.com/WhyDepin)](https://github.com/WhyDepin)"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=WhyDepin&theme=tokyonight&layout=compact" /></a>
