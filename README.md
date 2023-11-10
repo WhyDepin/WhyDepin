@@ -3,7 +3,6 @@
 
 ``bash
 > hallo
-``
 
 ### ℹ &nbsp;Im Learning
 
