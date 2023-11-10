@@ -9,9 +9,9 @@
 
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-  ![HTML](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=red)
+  ![HTML](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5)
 
-  ![CSS](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css&logoColor=yellow)
+  ![CSS](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3)
 
 ### ⚙ &nbsp;Account Analytics
 
