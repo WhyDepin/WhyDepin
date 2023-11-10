@@ -3,7 +3,7 @@
 
 ```bash
 [
-"name": "Depin,
+"name": "Depin",
 "Years old": "16",
 "addres": "Tangerang - banten"
 ]
