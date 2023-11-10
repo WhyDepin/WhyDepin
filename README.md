@@ -1,8 +1,13 @@
 
 ## Hi there, i'm Depin Kun 👋
 
-``bash
-> hallo
+```bash
+[
+"name": "Depin,
+"Years old": "16",
+"addres": "Tangerang - banten"
+]
+```
 
 ### ℹ &nbsp;Im Learning
 
