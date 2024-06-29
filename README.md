@@ -3,9 +3,9 @@
 
 ```bash
 [
-"name": "Depin",
+"Name": "Depin",
 "Years old": "16",
-"country": "Indonesia - Tangerang"
+"Address": "Indonesia - Tangerang"
 ]
 ```
 
